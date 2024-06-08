@@ -72,7 +72,7 @@
     "DoubleOptInMessage": "Vi har precis skickat ett meddelande till dig med en bekräftelselänk som krävs för att bekräfta din prenumeration på den här listan.",
     "DueAtRenewal": "Förfaller vid förnyelse",
     "DueNow": "Ska vara inne nu",
-    "DueNowAndAtRenewal": "Förfaller nu och vid förnyelse",
+    "DueNowAndAtRenewal": "Gäller nu och vid förnyelse",
     "DueOn": "Förfaller den {{dueDate}}",
     "EditNumberOfUnits": "Redigera antalet {{unitsPlural}}",
     "EditOptions": "Redigera alternativ",
